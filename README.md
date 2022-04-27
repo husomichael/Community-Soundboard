@@ -1,6 +1,6 @@
 # Community Soundboard Template
 
-A website for my friends and a passion project to explore and expand my dev knowledge and toolkit.
+A starter template for hosting a soundboard for a community of friends.
 
 ## Prerequisites
 
@@ -12,7 +12,7 @@ Before you get started, make sure you have the following software installed on y
 
 ## Create database and table
 
-Create a new database called `qq_bearz` and create a `user` table:
+Create a new database called `community_soundboard` and create a `user` table:
 
 ```SQL
 CREATE TABLE "user" (
