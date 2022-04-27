@@ -7,12 +7,12 @@ A starter template for hosting a soundboard for a community.
 A starter template on the PERN stack for hosting a soundboard for a community. The template utilizes Cloudinary's API for .mp3 hosting. The template has 4 user access levels. Admin, Moderator, Member, and New User. The template has data persistence by using a "deleted" boolean for handling deletes.
 
 ## Screenshots
-![Screenshot of Landing Page](/public/images/landingpage.png)
+<!-- ![Screenshot of Landing Page](/public/images/landingpage.png)
 ![Screenshot of Home](/public/images/home.png)
 ![Screenshot of Layers](/public/images/layers.png)
 ![Screenshot of Attributes](/public/images/attributes.png)
 ![Screenshot of Check Inputs](/public/images/checkinputs.png)
-![Screenshot of Results](/public/images/results.png)
+![Screenshot of Results](/public/images/results.png) -->
 
 ## Prerequisites
 

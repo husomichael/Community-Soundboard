@@ -10,6 +10,7 @@ router.post('/', rejectUnauthenticated, cloudinaryUpload.single('soundclip'), as
     const soundclipUrl = req.file.path;
     const soundclipTitle = req.body.title;
     const tagsArray = req.body.tags.split(',');
+    console.log('asdf soundclipUrl:', req.file.path);
     console.log('tagsArray:', tagsArray);
     console.log('soundclipTitle:', soundclipTitle);
     const sqlText = `

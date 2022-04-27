@@ -10,7 +10,7 @@ function Nav() {
   return (
     <div className="nav">
       <Link to="/home">
-        <h2 className="nav-title">QQ Bearz</h2>
+        <h2 className="nav-title">Community Soundboard</h2>
       </Link>
       <div>
         {/* If no user is logged in, show these links */}
@@ -41,21 +41,10 @@ function Nav() {
         {/* If a user is logged in, show these links */}
         {user.id && (
           <>
-            {/* <Link className="navLink" to="/user">
-              Home
-            </Link> */}
 
             <Link className="navLink" to="/soundboard">
               Soundboard
             </Link>
-
-            {/* <Link className="navLink" to="/info">
-              Info
-            </Link> */}
-
-            {/* <Link className="navLink" to="/arakandeathcounter">
-              Arakan Deaths
-            </Link> */}
 
             <LogOutButton className="navLinkLogout" />
           </>

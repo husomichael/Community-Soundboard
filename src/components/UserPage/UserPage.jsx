@@ -22,7 +22,7 @@ function UserPage() {
         sx={{ mt: 10 }}
       >
         <Typography variant="p" sx={{ maxWidth: "450px" }}>
-          Welcome to QQ Bearz! Be sure to check out the Soundboard. All users
+          Welcome to the soundboard! All users
           are able to experience the soundboard. If you wish to contribute to
           the soundboard, be sure to head to the request access page at the top.
         </Typography>
