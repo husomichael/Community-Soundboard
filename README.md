@@ -1,4 +1,4 @@
-# QQ Bearz
+# Community Soundboard Template
 
 A website for my friends and a passion project to explore and expand my dev knowledge and toolkit.
 
