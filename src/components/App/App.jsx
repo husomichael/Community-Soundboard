@@ -17,9 +17,6 @@ import LandingPage from "../LandingPage/LandingPage";
 import LoginPage from "../LoginPage/LoginPage";
 import RegisterPage from "../RegisterPage/RegisterPage";
 import Soundboard from "../Soundboard/Soundboard.jsx";
-import ArakanDeathCounter from "../ArakanDeathCounter/ArakanDeathCounter.jsx";
-import AddCorpsePhoto from "../AddCorpsePhoto/AddCorpsePhoto.jsx";
-import UserProfile from "../UserProfile/UserProfile.jsx";
 import RequestAccess from "../RequestAccess/RequestAccess.jsx";
 import GrantAccess from "../GrantAccess/GrantAccess.jsx";
 import SelectedUser from "../SelectedUser/SelectedUser.jsx";
@@ -117,21 +114,6 @@ function App() {
             </Route>
             <ProtectedRoute exact path="/soundboard">
               <Soundboard />
-            </ProtectedRoute>
-            {/* <ProtectedRoute
-            exact
-            path="/arakandeathcounter"
-          >
-            <ArakanDeathCounter />
-          </ProtectedRoute>
-          <ProtectedRoute
-            exact
-            path="/addcorpsephoto"
-          >
-            <AddCorpsePhoto />
-          </ProtectedRoute> */}
-            <ProtectedRoute exact path="/userprofile">
-              <UserProfile />
             </ProtectedRoute>
             <ProtectedRoute exact path="/manageaccess">
             {user.access > 2 && <GrantAccess />}
