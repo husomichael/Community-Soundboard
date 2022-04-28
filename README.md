@@ -71,15 +71,6 @@ Clone the repository and npm install in the terminal. Then in 2 separate termina
 
 If you're a new user, register an account to log in. If you're already registered, log in to your existing account.
 
-
-## License
-
-<a href="https://choosealicense.com/licenses/mit/"><img src="https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/mit.svg" height=40 />MIT License</a>
-
-## Acknowledgements
-
-Who helped you make this project a reality? Friends? Family? Contributors? Instructors?
-
 ## Contacts
 
 <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/michael-huso/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  <a href="mailto:husomichael@gmail.com"><img src=https://raw.githubusercontent.com/johnturner4004/readme-generator/master/src/components/assets/images/email_me_button_icon_151852.svg /></a>
