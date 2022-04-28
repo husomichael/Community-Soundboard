@@ -38,7 +38,7 @@ With the moderator login you can experience the ManageAccess view, and give your
 ![Screenshot](./public/images/LandingPage.png)
 ![Screenshot](./public/images/Soundboard.png)
 ![Screenshot](./public/images/UploadModal.png)
-![Screenshot](./public/images/DeletedClip.png)
+![Screenshot](./public/images/DeletedClips.png)
 ![Screenshot](./public/images/ManageAccess.png)
 ![Screenshot](./public/images/SelectedUserAccess.png)
 
