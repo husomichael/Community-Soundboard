@@ -65,7 +65,7 @@ Directory Structure:
 
 ### Installation
 
-Clone the repository and npm install in the terminal. Then in 2 separate terminals, npm run server in one and npm run client in the other.
+Clone the repository and npm install in the terminal. Then in 2 separate terminals, npm run server in one and npm run client in the other. To upload soundclips you will need to create an account with Cloudinary and put your API keys in your .env file.
 
 ## Usage
 
