@@ -23,7 +23,7 @@ A starter template on the PERN stack for hosting a soundboard for a community. T
 
 ## Getting Started
 
-Visit the deployed version of the app on Heroku here:https://community-soundboard.herokuapp.com/ and register an account.
+Visit the deployed version of the app on Heroku here: https://community-soundboard.herokuapp.com/ and register an account.
 
 Moderator login:  
 Username - Moderator  
