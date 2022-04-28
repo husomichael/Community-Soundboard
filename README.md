@@ -27,9 +27,9 @@ A starter template on the PERN stack for hosting a soundboard for a community. T
 
 Visit the deployed version of the app on Heroku here:https://community-soundboard.herokuapp.com/ and register an account.
 
-Moderator login:
-Username - Moderator
-Password - 1234
+Moderator login:  
+Username - Moderator  
+Password - 1234  
 
 With the moderator login you can experience the ManageAccess view, and give your account access to the soundboard. Once accounts have access they are able to contribute their own clips to the soundboard by having access to the Add a Clip button.
 
