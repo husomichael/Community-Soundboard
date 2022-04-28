@@ -1,5 +1,3 @@
-![Repo Size](https://img.shields.io/github/languages/code-size/https://github.com/husomichael/Community-Soundboard.svg?style=for-the-badge) ![TOP_LANGUAGE](https://img.shields.io/github/languages/tophttps://github.com/husomichael/Community-Soundboard.svg?style=for-the-badge) ![FORKS](https://img.shields.io/github/forks/https://github.com/husomichael/Community-Soundboard.svg?style=for-the-badge&social) ![Stars](https://img.shields.io/github/stars/https://github.com/husomichael/Community-Soundboard.svg?style=for-the-badge)
-    
 # Community Soundboard Template
 
 ## Table of Contents
